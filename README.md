@@ -97,14 +97,17 @@ Or use the provided SVG and convert it to PNG.
 7. Show different topics trigger different messages
 
 ## 📸 Screenshots
+## Composing a Tweet
 <p align="center">
   <img src="readme_images/img1.jpg" alt="img1">
 </p>
 
+## Prompt
 <p align="center">
   <img src="readme_images/img2.jpg" alt="img2">
 </p>
 
+## Detection
 <p align="center">
   <img src="readme_images/img3.jpg" alt="img3">
 </p>
