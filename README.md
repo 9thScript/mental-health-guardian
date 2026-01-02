@@ -98,15 +98,15 @@ Or use the provided SVG and convert it to PNG.
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="readme_images/img1.png" alt="img1">
+  <img src="readme_images/img1.jpg" alt="img1">
 </p>
 
 <p align="center">
-  <img src="readme_images/img2.png" alt="img2">
+  <img src="readme_images/img2.jpg" alt="img2">
 </p>
 
 <p align="center">
-  <img src="readme_images/img3.png" alt="img3">
+  <img src="readme_images/img3.jpg" alt="img3">
 </p>
 
 ## 🚀 Next Steps
